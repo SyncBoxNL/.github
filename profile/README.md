@@ -3,5 +3,7 @@ The goal of SyncBox is to create an easy-to-understand lightweight text editor t
 
 The only language SyncBox currently supports is **Dutch**!
 
+Look [here](https://github.com/SyncBoxNL/SyncBox) to view all the bug and feature requests for SyncBox!
+
 ## Links 🔗
 - Main site: https://syncbox.nl
